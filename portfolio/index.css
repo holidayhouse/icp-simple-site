@@ -1,0 +1,53 @@
+body{
+    font-family: Arial; 
+}
+.info-con{
+    display: flex;
+    background-color:rgb(12, 12, 12);
+    color: white;
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    justify-content: center;
+}
+
+.name{
+    text-decoration: solid;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.pic{
+    border-radius: 30px;
+    height: 400px;
+    width: 300px;
+    box-shadow: 10px 10px gray;
+}
+
+.infomation{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+   width: auto;
+   border-radius: 10px;
+   margin-top: 20px;
+   font-size: 25px;
+  
+}
+
+.roronoa{
+    padding: 0;
+
+}
+
+
+
